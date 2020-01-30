@@ -4,13 +4,9 @@
         <file>qmldir/Toolbars/Main/MainToolBar.qml</file>
         <file>main.cpp</file>
         <file>qmldir/ResistorColorCode/ToleraceColorCode.qml</file>
-        <file>qmldir/ResistorColorCode/ResistorColorCode.pro.user</file>
-        <file>qmldir/ResistorColorCode/ResistorColorCode.pro</file>
         <file>qmldir/ResistorColorCode/Resistor5color.qml</file>
         <file>qmldir/ResistorColorCode/Resistor4color.qml</file>
-        <file>qmldir/ResistorColorCode/qml.qrc</file>
         <file>qmldir/ResistorColorCode/main.qml</file>
-        <file>qmldir/ResistorColorCode/main.cpp</file>
         <file>qmldir/ResistorColorCode/ColorCodeSelector.qml</file>
         <file>qmldir/ResistorColorCode/ColorCodeFunctions.js</file>
         <file>qtquickcontrols2.conf</file>

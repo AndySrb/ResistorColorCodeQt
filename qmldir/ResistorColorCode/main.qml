@@ -12,11 +12,11 @@ Item {
        width: parent.width
        TabButton
        {
-           text: "Otpornik sa 4 boje"
+           text: "4-color"
        }
        TabButton
        {
-           text: "Otpornik sa 5 boje"
+           text: "5-color"
        }
    }
 
